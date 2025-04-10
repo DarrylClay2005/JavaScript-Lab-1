@@ -45,9 +45,8 @@ console.log("Total  years: ", TotalAmount)
 let MyNameIsDarrylClay = MyName
 let MyFavoriteFoodIsPizza = favoritefood 
 let MyFavoriteHobbyIsGaming = Gaming
-let AllTogether = MyNameIsDarrylClay + MyFavoriteFoodIsPizza + MyFavoriteHobbyIsGaming
 
-console.log("Assignment: ", AllTogether)
+console.log("My Name Is Darryl Clay, My Favorite Food is Pizza, And my Hobby is Gaming.");
 
 // I Don't think this is fully right but ill take what credit i can get, i gotta get more practice, also side note for anyone publicly viewing this......
 // GAMING IS A HOBBY I DON'T CARE WHAT ARGUMENTS YALL USE
